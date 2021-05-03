@@ -1,0 +1,28 @@
+{
+    "taks": [
+      { 
+          "id": 1, 
+          "title": "Crear JSON para el proyecto",
+          "person": "Jose",
+          "state": "to-do",
+          "deadLine": 1620604800,
+          "created": 1620000258
+         },
+         {
+            "id": 2, 
+            "title": "Crear JSON para el proyecto",
+            "person": "Jose",
+            "state": "in-progress",
+            "deadLine": 1620604800,
+            "created": 1620000258
+         },
+         {
+            "id": 3, 
+            "title": "Crear JSON para el proyecto",
+            "person": "Jose",
+            "state": "done",
+            "deadLine": 1620604800,
+            "created": 1620000258
+         }
+    ]
+  }
